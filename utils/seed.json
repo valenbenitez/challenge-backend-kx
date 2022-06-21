@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Store 1",
+    "cuit": "40-30-1",
+    "concepts": [100, 11, 22, 33, 44, 55],
+    "currentBalance": 5000,
+    "active": true,
+    "lastSale": "2002-10-15T06:25:13Z"
+  },
+  {
+    "name": "Store 2",
+    "cuit": "30-40-1",
+    "concepts": [55, 44, 33, 22, 11, 100],
+    "currentBalance": 5000,
+    "active": true,
+    "lastSale": "2009-03-21T18:17:09Z"
+  },
+  {
+    "name": "Store 3",
+    "cuit": "1-30-40",
+    "concepts": [100, 55, 22, 44, 33, 11],
+    "currentBalance": 5000,
+    "active": true,
+    "lastSale": "1998-08-23T29:28:28Z"
+  }
+]
